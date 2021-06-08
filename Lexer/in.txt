@@ -1,0 +1,35 @@
+98 
+98.76    98.    
+123.456.
+ab123 123ab 
+0x789_123
+(a_b))a
+
+-1--1
+-(-1/-1)*-1
++1
+
+1a011 5* s+ 
+0o12
+123E+123
+123.123E+123
+456E-456
+var num = 5
+Double i = 1.23
+do while 
+
+123456789
+1234567890
+
+Boolean x=true
+
+123 # some text
+
+something $multi comm > ent $ Int 123
+
+something $ multi-
+comment Int 123
+still comment  $  Int 123
+
+uu @it's a string@ yy
+uu @   new Int 65 $ rr$ # Double   @yy
